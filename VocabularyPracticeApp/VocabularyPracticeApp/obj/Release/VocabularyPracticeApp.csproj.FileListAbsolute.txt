@@ -1,0 +1,16 @@
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\bin\Release\VocabularyPracticeApp.exe.config
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\bin\Release\VocabularyPracticeApp.exe
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\bin\Release\VocabularyPracticeApp.pdb
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\App.g.cs
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\VocabularyPracticeApp_MarkupCompile.cache
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\VocabularyPracticeApp_MarkupCompile.lref
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\VocabularyPracticeApp.g.resources
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\VocabularyPracticeApp.Properties.Resources.resources
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\VocabularyPracticeApp.csproj.GenerateResource.Cache
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\VocabularyPracticeApp.exe
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\VocabularyPracticeApp.pdb
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\View\MainWindow.g.cs
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\View\MainWindow.baml
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\VocabularyPracticeApp.csprojResolveAssemblyReference.cache
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\View\Window1.g.cs
+F:\C#\VocabularyPracticeApp\VocabularyPracticeApp\VocabularyPracticeApp\obj\Release\View\Window1.baml

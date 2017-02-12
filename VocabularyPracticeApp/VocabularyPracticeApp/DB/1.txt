@@ -1,0 +1,32 @@
+CREATE TABLE LanguagePack(
+ ID INTEGER PRIMARY KEY AUTOINCREMENT, 
+LanguagePackName CHAR(50),
+ModificationDate datetime
+);
+
+CREATE TABLE Word(
+  ID INTEGER PRIMARY KEY AUTOINCREMENT, 
+  ID_LanguagePacks INTEGER,
+  PolishVersion TEXT, 
+  TranslatedVersion TEXT, 
+  AddDate datetime,
+  ModificationDate datetime,
+  FOREIGN KEY (ID_LanguagePacks) REFERENCES LanguagePacks(ID)
+);
+
+CREATE TABLE User(
+  ID INTEGER PRIMARY KEY AUTOINCREMENT, 
+  UserName TEXT, 
+  UserPassword TEXT,
+  AddDate datetime,
+  ModificationDate datetime
+);
+
+CREATE TABLE Statistic(
+  ID INTEGER PRIMARY KEY AUTOINCREMENT, 
+  ID_LanguagePacks INTEGER,
+  Correct INTEGER,
+  Total INTEGER,
+  FOREIGN KEY (ID_LanguagePacks) REFERENCES LanguagePacks(ID)
+);
+
